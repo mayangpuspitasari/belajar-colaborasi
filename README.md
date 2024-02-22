@@ -1,3 +1,5 @@
 # belajar-colaborasi
-Git Colaboration percobaan awal membuat colaboration
-percobaan kedua membuat colaboration
+
+Git Colaboration membuat perubahan 1
+Git Colaboration membuat perubahan 2
+
